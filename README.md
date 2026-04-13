@@ -11,4 +11,4 @@ Este projeto foi criado para a atividade prática de CI/CD.
 Demonstrar versionamento com Git, uso de branches e Pull Request.
 
 ## 👨‍💻 Autor
-Seu Nome
+Anderson da silva de oliveira
