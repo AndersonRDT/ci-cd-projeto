@@ -1,0 +1,24 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Este projeto foi criado para a atividade prática de CI/CD.",
+  "main": "login.js",
+  "scripts": {
+  "test": "jest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonRDT/ci-cd-projeto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AndersonRDT/ci-cd-projeto/issues"
+  },
+  "homepage": "https://github.com/AndersonRDT/ci-cd-projeto#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
